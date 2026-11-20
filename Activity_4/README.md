@@ -11,5 +11,5 @@ In this activity, we were tasked to cooperate with our groupmates and discuss in
   
 ## What I've Learned
 - I learned more information about Google slides
-- I experienced chooosing what part to contribute in the slides because there were only limited things to discuss but I overcame it by pairing up with a groupmate in order to emphasize the history of Google Slides itself.
+- I experienced difficulty in chooosing what part to contribute in the slides because there were only limited things to discuss but I overcame it by pairing up with a groupmate in order to emphasize the history of Google Slides itself.
 - I could apply this in future endeavors google workspace tools should be used.
