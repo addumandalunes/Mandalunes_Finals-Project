@@ -1,6 +1,6 @@
 # Hi, I'm Gelou T. Mandalunes! 👋
 
-![Profile Photo](profile-photo.jpg)
+![Profile Photo](b0b26781-ecd5-4395-9b2a-25d46a5924cb.jpg)
 
 ## Who am I?
 I'm a 2nd year AB Psychology student in Ateneo de Davao University. I am a student-athlete, particularly a varsity player and part of the Ateneo Women's Volleyball team. I am an introvert but I love outdoor activities. I also love to partake and physical activities, listen to music, watch movies, and play video games. I am a good listener, I am empathetic, I am open minded, and I am physically active.
