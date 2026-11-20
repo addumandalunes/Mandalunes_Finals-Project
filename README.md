@@ -27,7 +27,7 @@ I'm a 2nd year AB Psychology student in Ateneo de Davao University. I am a stude
 
 ## $\color{purple}{\textsf{Take a look at my activities!}}$
 
-</div>
+<div align="center">
 <table>
   <tr>
     <th colspan="3" align="center"><b>PRELIMS</b></th>
