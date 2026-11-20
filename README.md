@@ -33,23 +33,23 @@ I'm a 2nd year AB Psychology student in Ateneo de Davao University. I am a stude
     <th colspan="3" align="center"><b>PRELIMS</b></th>
   </tr>
   <tr>
-    <td align="center"><a href="Activity-1">Activity 1</a></td>
-    <td align="center"><a href="Activity-2">Activity 2</a></td>
-    <td align="center"><a href="Activity-3">Activity 3</a></td>
+    <td align="center"><a href="Activity_1">Activity 1</a></td>
+    <td align="center"><a href="Activity_2">Activity 2</a></td>
+    <td align="center"><a href="Activity_3">Activity 3</a></td>
   </tr>
   <tr>
     <th colspan="3" align="center"><b>MIDTERMS</b></th>
   </tr>
   <tr>
-    <td colspan="3" align="center"><a href="Activity-4">Activity 4</a></td>
+    <td colspan="3" align="center"><a href="Activity_4">Activity 4</a></td>
   </tr>
   <tr>
     <th colspan="3" align="center"><b>PRE-FINALS</b></th>
   </tr>
   <tr>
-    <td align="center"><a href="Activity-5">Activity 5</a></td>
-    <td align="center"><a href="Activity-6">Activity 6</a></td>
-    <td align="center"><a href="Activity-7">Activity 7</a></td>
+    <td align="center"><a href="Activity_5">Activity 5</a></td>
+    <td align="center"><a href="Activity_6">Activity 6</a></td>
+    <td align="center"><a href="Activity_7">Activity 7</a></td>
   </tr>
 </table>
 
