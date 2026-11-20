@@ -29,7 +29,7 @@ I'm a 2nd year AB Psychology student in Ateneo de Davao University. I am a stude
 
 </div>
 
-- [Activity 1](Activity-1)
+- [Activity 1](Activity_1/Mandalunes_Activity_1.pdf)
 - [Activity 2](Activity-2)
 - [Activity 3](Activity-3)
 - [Activity 4](Activity-4)
