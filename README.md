@@ -1,11 +1,21 @@
-# Hi, I'm Gelou T. Mandalunes! 👋
+<div align="center">
 
-![Profile Photo](b0b26781-ecd5-4395-9b2a-25d46a5924cb.jpg)
+# $\color{purple}{\textsf{Hi, I'm Gelou T. Mandalunes!}}$ 👋
 
-## Who am I?
+<img src="b0b26781-ecd5-4395-9b2a-25d46a5924cb.jpg" alt="Profile Photo" width="200">
+
+## $\color{purple}{\textsf{Who am I?}}$
+
+</div>
+
 I'm a 2nd year AB Psychology student in Ateneo de Davao University. I am a student-athlete, particularly a varsity player and part of the Ateneo Women's Volleyball team. I am an introvert but I love outdoor activities. I also love to partake and physical activities, listen to music, watch movies, and play video games. I am a good listener, I am empathetic, I am open minded, and I am physically active.
 
-## In this course, I have learned...
+<div align="center">
+
+## $\color{purple}{\textsf{In this course, I have learned...}}$
+
+</div>
+
 - Technological skills and awareness
 - How to properly use and apply basic presentation design principles
 - How to navigate tools like Github, canva, google workspace tools like google docs, slides, sheets, and many more
@@ -13,7 +23,12 @@ I'm a 2nd year AB Psychology student in Ateneo de Davao University. I am a stude
 - To actively contribute and collaborate with my peers
 - To listen and apply basic technological principles
 
-## Take a look at my activities!
+<div align="center">
+
+## $\color{purple}{\textsf{Take a look at my activities!}}$
+
+</div>
+
 - [Activity 1](Activity-1)
 - [Activity 2](Activity-2)
 - [Activity 3](Activity-3)
